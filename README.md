@@ -36,7 +36,7 @@ SAOI.Size = UDim2.new(0, 211, 0, 26)
 
 SAOI.Font = Enum.Font.SourceSans
 
-SAOI.Text = "By SAOI"
+SAOI.Text = "MKX HUD "
 
 SAOI.TextColor3 = Color3.fromRGB(0, 0, 0)
 
